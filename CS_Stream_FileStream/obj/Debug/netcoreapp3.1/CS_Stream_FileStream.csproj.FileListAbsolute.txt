@@ -1,0 +1,13 @@
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Stream_FileStream\bin\Debug\netcoreapp3.1\CS_Stream_FileStream.exe
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Stream_FileStream\bin\Debug\netcoreapp3.1\CS_Stream_FileStream.deps.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Stream_FileStream\bin\Debug\netcoreapp3.1\CS_Stream_FileStream.runtimeconfig.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Stream_FileStream\bin\Debug\netcoreapp3.1\CS_Stream_FileStream.runtimeconfig.dev.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Stream_FileStream\bin\Debug\netcoreapp3.1\CS_Stream_FileStream.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Stream_FileStream\bin\Debug\netcoreapp3.1\CS_Stream_FileStream.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Stream_FileStream\obj\Debug\netcoreapp3.1\CS_Stream_FileStream.csprojAssemblyReference.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Stream_FileStream\obj\Debug\netcoreapp3.1\CS_Stream_FileStream.AssemblyInfoInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Stream_FileStream\obj\Debug\netcoreapp3.1\CS_Stream_FileStream.AssemblyInfo.cs
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Stream_FileStream\obj\Debug\netcoreapp3.1\CS_Stream_FileStream.csproj.CoreCompileInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Stream_FileStream\obj\Debug\netcoreapp3.1\CS_Stream_FileStream.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Stream_FileStream\obj\Debug\netcoreapp3.1\CS_Stream_FileStream.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Stream_FileStream\obj\Debug\netcoreapp3.1\CS_Stream_FileStream.genruntimeconfig.cache
