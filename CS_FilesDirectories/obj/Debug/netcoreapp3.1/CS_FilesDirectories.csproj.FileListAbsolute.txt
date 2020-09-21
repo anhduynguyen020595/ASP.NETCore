@@ -1,0 +1,13 @@
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_FilesDirectories\bin\Debug\netcoreapp3.1\CS_FilesDirectories.exe
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_FilesDirectories\bin\Debug\netcoreapp3.1\CS_FilesDirectories.deps.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_FilesDirectories\bin\Debug\netcoreapp3.1\CS_FilesDirectories.runtimeconfig.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_FilesDirectories\bin\Debug\netcoreapp3.1\CS_FilesDirectories.runtimeconfig.dev.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_FilesDirectories\bin\Debug\netcoreapp3.1\CS_FilesDirectories.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_FilesDirectories\bin\Debug\netcoreapp3.1\CS_FilesDirectories.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_FilesDirectories\obj\Debug\netcoreapp3.1\CS_FilesDirectories.csprojAssemblyReference.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_FilesDirectories\obj\Debug\netcoreapp3.1\CS_FilesDirectories.AssemblyInfoInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_FilesDirectories\obj\Debug\netcoreapp3.1\CS_FilesDirectories.AssemblyInfo.cs
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_FilesDirectories\obj\Debug\netcoreapp3.1\CS_FilesDirectories.csproj.CoreCompileInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_FilesDirectories\obj\Debug\netcoreapp3.1\CS_FilesDirectories.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_FilesDirectories\obj\Debug\netcoreapp3.1\CS_FilesDirectories.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_FilesDirectories\obj\Debug\netcoreapp3.1\CS_FilesDirectories.genruntimeconfig.cache
