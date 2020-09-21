@@ -1,0 +1,13 @@
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Delegate\bin\Debug\netcoreapp3.1\CS_Delegate.exe
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Delegate\bin\Debug\netcoreapp3.1\CS_Delegate.deps.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Delegate\bin\Debug\netcoreapp3.1\CS_Delegate.runtimeconfig.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Delegate\bin\Debug\netcoreapp3.1\CS_Delegate.runtimeconfig.dev.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Delegate\bin\Debug\netcoreapp3.1\CS_Delegate.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Delegate\bin\Debug\netcoreapp3.1\CS_Delegate.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Delegate\obj\Debug\netcoreapp3.1\CS_Delegate.csprojAssemblyReference.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Delegate\obj\Debug\netcoreapp3.1\CS_Delegate.AssemblyInfoInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Delegate\obj\Debug\netcoreapp3.1\CS_Delegate.AssemblyInfo.cs
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Delegate\obj\Debug\netcoreapp3.1\CS_Delegate.csproj.CoreCompileInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Delegate\obj\Debug\netcoreapp3.1\CS_Delegate.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Delegate\obj\Debug\netcoreapp3.1\CS_Delegate.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Delegate\obj\Debug\netcoreapp3.1\CS_Delegate.genruntimeconfig.cache

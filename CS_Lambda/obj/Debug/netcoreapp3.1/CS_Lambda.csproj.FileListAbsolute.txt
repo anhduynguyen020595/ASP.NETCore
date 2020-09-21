@@ -1,0 +1,13 @@
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Lambda\bin\Debug\netcoreapp3.1\CS_Lambda.exe
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Lambda\bin\Debug\netcoreapp3.1\CS_Lambda.deps.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Lambda\bin\Debug\netcoreapp3.1\CS_Lambda.runtimeconfig.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Lambda\bin\Debug\netcoreapp3.1\CS_Lambda.runtimeconfig.dev.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Lambda\bin\Debug\netcoreapp3.1\CS_Lambda.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Lambda\bin\Debug\netcoreapp3.1\CS_Lambda.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Lambda\obj\Debug\netcoreapp3.1\CS_Lambda.csprojAssemblyReference.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Lambda\obj\Debug\netcoreapp3.1\CS_Lambda.AssemblyInfoInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Lambda\obj\Debug\netcoreapp3.1\CS_Lambda.AssemblyInfo.cs
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Lambda\obj\Debug\netcoreapp3.1\CS_Lambda.csproj.CoreCompileInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Lambda\obj\Debug\netcoreapp3.1\CS_Lambda.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Lambda\obj\Debug\netcoreapp3.1\CS_Lambda.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Lambda\obj\Debug\netcoreapp3.1\CS_Lambda.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Event\bin\Debug\netcoreapp3.1\CS_Event.exe
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Event\bin\Debug\netcoreapp3.1\CS_Event.deps.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Event\bin\Debug\netcoreapp3.1\CS_Event.runtimeconfig.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Event\bin\Debug\netcoreapp3.1\CS_Event.runtimeconfig.dev.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Event\bin\Debug\netcoreapp3.1\CS_Event.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Event\bin\Debug\netcoreapp3.1\CS_Event.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Event\obj\Debug\netcoreapp3.1\CS_Event.csprojAssemblyReference.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Event\obj\Debug\netcoreapp3.1\CS_Event.AssemblyInfoInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Event\obj\Debug\netcoreapp3.1\CS_Event.AssemblyInfo.cs
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Event\obj\Debug\netcoreapp3.1\CS_Event.csproj.CoreCompileInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Event\obj\Debug\netcoreapp3.1\CS_Event.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Event\obj\Debug\netcoreapp3.1\CS_Event.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Event\obj\Debug\netcoreapp3.1\CS_Event.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_HelloWorld\bin\Debug\netcoreapp3.1\CS_HelloWorld.exe
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_HelloWorld\bin\Debug\netcoreapp3.1\CS_HelloWorld.deps.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_HelloWorld\bin\Debug\netcoreapp3.1\CS_HelloWorld.runtimeconfig.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_HelloWorld\bin\Debug\netcoreapp3.1\CS_HelloWorld.runtimeconfig.dev.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_HelloWorld\bin\Debug\netcoreapp3.1\CS_HelloWorld.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_HelloWorld\bin\Debug\netcoreapp3.1\CS_HelloWorld.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_HelloWorld\obj\Debug\netcoreapp3.1\CS_HelloWorld.csprojAssemblyReference.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_HelloWorld\obj\Debug\netcoreapp3.1\CS_HelloWorld.AssemblyInfoInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_HelloWorld\obj\Debug\netcoreapp3.1\CS_HelloWorld.AssemblyInfo.cs
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_HelloWorld\obj\Debug\netcoreapp3.1\CS_HelloWorld.csproj.CoreCompileInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_HelloWorld\obj\Debug\netcoreapp3.1\CS_HelloWorld.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_HelloWorld\obj\Debug\netcoreapp3.1\CS_HelloWorld.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_HelloWorld\obj\Debug\netcoreapp3.1\CS_HelloWorld.genruntimeconfig.cache

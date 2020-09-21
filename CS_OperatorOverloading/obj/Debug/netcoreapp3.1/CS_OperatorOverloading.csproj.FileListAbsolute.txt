@@ -1,0 +1,13 @@
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_OperatorOverloading\bin\Debug\netcoreapp3.1\CS_OperatorOverloading.exe
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_OperatorOverloading\bin\Debug\netcoreapp3.1\CS_OperatorOverloading.deps.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_OperatorOverloading\bin\Debug\netcoreapp3.1\CS_OperatorOverloading.runtimeconfig.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_OperatorOverloading\bin\Debug\netcoreapp3.1\CS_OperatorOverloading.runtimeconfig.dev.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_OperatorOverloading\bin\Debug\netcoreapp3.1\CS_OperatorOverloading.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_OperatorOverloading\bin\Debug\netcoreapp3.1\CS_OperatorOverloading.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_OperatorOverloading\obj\Debug\netcoreapp3.1\CS_OperatorOverloading.csprojAssemblyReference.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_OperatorOverloading\obj\Debug\netcoreapp3.1\CS_OperatorOverloading.AssemblyInfoInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_OperatorOverloading\obj\Debug\netcoreapp3.1\CS_OperatorOverloading.AssemblyInfo.cs
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_OperatorOverloading\obj\Debug\netcoreapp3.1\CS_OperatorOverloading.csproj.CoreCompileInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_OperatorOverloading\obj\Debug\netcoreapp3.1\CS_OperatorOverloading.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_OperatorOverloading\obj\Debug\netcoreapp3.1\CS_OperatorOverloading.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_OperatorOverloading\obj\Debug\netcoreapp3.1\CS_OperatorOverloading.genruntimeconfig.cache
