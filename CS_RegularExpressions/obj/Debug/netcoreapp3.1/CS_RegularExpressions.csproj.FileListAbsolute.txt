@@ -1,0 +1,13 @@
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_RegularExpressions\obj\Debug\netcoreapp3.1\CS_RegularExpressions.csprojAssemblyReference.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_RegularExpressions\obj\Debug\netcoreapp3.1\CS_RegularExpressions.AssemblyInfoInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_RegularExpressions\obj\Debug\netcoreapp3.1\CS_RegularExpressions.AssemblyInfo.cs
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_RegularExpressions\obj\Debug\netcoreapp3.1\CS_RegularExpressions.csproj.CoreCompileInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_RegularExpressions\bin\Debug\netcoreapp3.1\CS_RegularExpressions.exe
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_RegularExpressions\bin\Debug\netcoreapp3.1\CS_RegularExpressions.deps.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_RegularExpressions\bin\Debug\netcoreapp3.1\CS_RegularExpressions.runtimeconfig.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_RegularExpressions\bin\Debug\netcoreapp3.1\CS_RegularExpressions.runtimeconfig.dev.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_RegularExpressions\bin\Debug\netcoreapp3.1\CS_RegularExpressions.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_RegularExpressions\bin\Debug\netcoreapp3.1\CS_RegularExpressions.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_RegularExpressions\obj\Debug\netcoreapp3.1\CS_RegularExpressions.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_RegularExpressions\obj\Debug\netcoreapp3.1\CS_RegularExpressions.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_RegularExpressions\obj\Debug\netcoreapp3.1\CS_RegularExpressions.genruntimeconfig.cache
