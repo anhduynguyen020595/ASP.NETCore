@@ -1,0 +1,13 @@
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Array\bin\Debug\netcoreapp3.1\CS_Array.exe
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Array\bin\Debug\netcoreapp3.1\CS_Array.deps.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Array\bin\Debug\netcoreapp3.1\CS_Array.runtimeconfig.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Array\bin\Debug\netcoreapp3.1\CS_Array.runtimeconfig.dev.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Array\bin\Debug\netcoreapp3.1\CS_Array.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Array\bin\Debug\netcoreapp3.1\CS_Array.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Array\obj\Debug\netcoreapp3.1\CS_Array.csprojAssemblyReference.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Array\obj\Debug\netcoreapp3.1\CS_Array.AssemblyInfoInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Array\obj\Debug\netcoreapp3.1\CS_Array.AssemblyInfo.cs
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Array\obj\Debug\netcoreapp3.1\CS_Array.csproj.CoreCompileInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Array\obj\Debug\netcoreapp3.1\CS_Array.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Array\obj\Debug\netcoreapp3.1\CS_Array.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Array\obj\Debug\netcoreapp3.1\CS_Array.genruntimeconfig.cache
