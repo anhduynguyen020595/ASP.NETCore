@@ -1,0 +1,13 @@
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_HashSet\bin\Debug\netcoreapp3.1\CS_HashSet.exe
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_HashSet\bin\Debug\netcoreapp3.1\CS_HashSet.deps.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_HashSet\bin\Debug\netcoreapp3.1\CS_HashSet.runtimeconfig.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_HashSet\bin\Debug\netcoreapp3.1\CS_HashSet.runtimeconfig.dev.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_HashSet\bin\Debug\netcoreapp3.1\CS_HashSet.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_HashSet\bin\Debug\netcoreapp3.1\CS_HashSet.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_HashSet\obj\Debug\netcoreapp3.1\CS_HashSet.csprojAssemblyReference.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_HashSet\obj\Debug\netcoreapp3.1\CS_HashSet.AssemblyInfoInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_HashSet\obj\Debug\netcoreapp3.1\CS_HashSet.AssemblyInfo.cs
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_HashSet\obj\Debug\netcoreapp3.1\CS_HashSet.csproj.CoreCompileInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_HashSet\obj\Debug\netcoreapp3.1\CS_HashSet.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_HashSet\obj\Debug\netcoreapp3.1\CS_HashSet.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_HashSet\obj\Debug\netcoreapp3.1\CS_HashSet.genruntimeconfig.cache
