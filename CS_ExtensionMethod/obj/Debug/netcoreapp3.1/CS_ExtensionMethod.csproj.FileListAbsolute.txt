@@ -1,0 +1,13 @@
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_ExtensionMethod\obj\Debug\netcoreapp3.1\CS_ExtensionMethod.csprojAssemblyReference.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_ExtensionMethod\obj\Debug\netcoreapp3.1\CS_ExtensionMethod.AssemblyInfoInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_ExtensionMethod\obj\Debug\netcoreapp3.1\CS_ExtensionMethod.AssemblyInfo.cs
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_ExtensionMethod\obj\Debug\netcoreapp3.1\CS_ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_ExtensionMethod\bin\Debug\netcoreapp3.1\CS_ExtensionMethod.exe
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_ExtensionMethod\bin\Debug\netcoreapp3.1\CS_ExtensionMethod.deps.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_ExtensionMethod\bin\Debug\netcoreapp3.1\CS_ExtensionMethod.runtimeconfig.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_ExtensionMethod\bin\Debug\netcoreapp3.1\CS_ExtensionMethod.runtimeconfig.dev.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_ExtensionMethod\bin\Debug\netcoreapp3.1\CS_ExtensionMethod.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_ExtensionMethod\bin\Debug\netcoreapp3.1\CS_ExtensionMethod.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_ExtensionMethod\obj\Debug\netcoreapp3.1\CS_ExtensionMethod.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_ExtensionMethod\obj\Debug\netcoreapp3.1\CS_ExtensionMethod.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_ExtensionMethod\obj\Debug\netcoreapp3.1\CS_ExtensionMethod.genruntimeconfig.cache
