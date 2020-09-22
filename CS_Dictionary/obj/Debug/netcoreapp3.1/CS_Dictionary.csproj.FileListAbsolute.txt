@@ -1,0 +1,13 @@
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Dictionary\bin\Debug\netcoreapp3.1\CS_Dictionary.exe
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Dictionary\bin\Debug\netcoreapp3.1\CS_Dictionary.deps.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Dictionary\bin\Debug\netcoreapp3.1\CS_Dictionary.runtimeconfig.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Dictionary\bin\Debug\netcoreapp3.1\CS_Dictionary.runtimeconfig.dev.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Dictionary\bin\Debug\netcoreapp3.1\CS_Dictionary.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Dictionary\bin\Debug\netcoreapp3.1\CS_Dictionary.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Dictionary\obj\Debug\netcoreapp3.1\CS_Dictionary.csprojAssemblyReference.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Dictionary\obj\Debug\netcoreapp3.1\CS_Dictionary.AssemblyInfoInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Dictionary\obj\Debug\netcoreapp3.1\CS_Dictionary.AssemblyInfo.cs
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Dictionary\obj\Debug\netcoreapp3.1\CS_Dictionary.csproj.CoreCompileInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Dictionary\obj\Debug\netcoreapp3.1\CS_Dictionary.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Dictionary\obj\Debug\netcoreapp3.1\CS_Dictionary.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_Dictionary\obj\Debug\netcoreapp3.1\CS_Dictionary.genruntimeconfig.cache
