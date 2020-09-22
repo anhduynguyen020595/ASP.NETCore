@@ -1,0 +1,13 @@
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_LinkedList\bin\Debug\netcoreapp3.1\CS_LinkedList.exe
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_LinkedList\bin\Debug\netcoreapp3.1\CS_LinkedList.deps.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_LinkedList\bin\Debug\netcoreapp3.1\CS_LinkedList.runtimeconfig.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_LinkedList\bin\Debug\netcoreapp3.1\CS_LinkedList.runtimeconfig.dev.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_LinkedList\bin\Debug\netcoreapp3.1\CS_LinkedList.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_LinkedList\bin\Debug\netcoreapp3.1\CS_LinkedList.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_LinkedList\obj\Debug\netcoreapp3.1\CS_LinkedList.csprojAssemblyReference.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_LinkedList\obj\Debug\netcoreapp3.1\CS_LinkedList.AssemblyInfoInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_LinkedList\obj\Debug\netcoreapp3.1\CS_LinkedList.AssemblyInfo.cs
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_LinkedList\obj\Debug\netcoreapp3.1\CS_LinkedList.csproj.CoreCompileInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_LinkedList\obj\Debug\netcoreapp3.1\CS_LinkedList.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_LinkedList\obj\Debug\netcoreapp3.1\CS_LinkedList.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_LinkedList\obj\Debug\netcoreapp3.1\CS_LinkedList.genruntimeconfig.cache
