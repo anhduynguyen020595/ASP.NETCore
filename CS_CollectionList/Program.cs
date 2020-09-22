@@ -29,7 +29,7 @@ namespace CS_CollectionList
             products.AddRange(arrayProducts);
 
             // Add element at index
-            products.Insert(3, new Product(6, "Macbook Pro", 1000, "Mỹ")); 
+            products.Insert(3, new Product(6, "Macbook Pro", 1000, "Mỹ"));
 
             // Read element
             var pro = products[2];
@@ -40,7 +40,7 @@ namespace CS_CollectionList
             {
                 var pi = products[i];
                 System.Console.WriteLine(pi.ToString());
-            } 
+            }
 
             foreach (var pi in products)
             {
@@ -52,7 +52,7 @@ namespace CS_CollectionList
             products.RemoveAt(0);
 
             //Range element
-            products.RemoveRange(products.Count -2, 2);
+            products.RemoveRange(products.Count - 2, 2);
 
             //Reference element
             var pro_rm = products[1];
@@ -60,6 +60,7 @@ namespace CS_CollectionList
 
 
             //Delegate with Predicate
-            (Product ob) => (ob.Name == "Galaxy 8");       
+            (Product ob) => (ob.Name == "Galaxy 8");
+        }
     }
 }
