@@ -1,0 +1,13 @@
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_CollectionList\bin\Debug\netcoreapp3.1\CS_CollectionList.exe
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_CollectionList\bin\Debug\netcoreapp3.1\CS_CollectionList.deps.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_CollectionList\bin\Debug\netcoreapp3.1\CS_CollectionList.runtimeconfig.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_CollectionList\bin\Debug\netcoreapp3.1\CS_CollectionList.runtimeconfig.dev.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_CollectionList\bin\Debug\netcoreapp3.1\CS_CollectionList.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_CollectionList\bin\Debug\netcoreapp3.1\CS_CollectionList.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_CollectionList\obj\Debug\netcoreapp3.1\CS_CollectionList.csprojAssemblyReference.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_CollectionList\obj\Debug\netcoreapp3.1\CS_CollectionList.AssemblyInfoInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_CollectionList\obj\Debug\netcoreapp3.1\CS_CollectionList.AssemblyInfo.cs
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_CollectionList\obj\Debug\netcoreapp3.1\CS_CollectionList.csproj.CoreCompileInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_CollectionList\obj\Debug\netcoreapp3.1\CS_CollectionList.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_CollectionList\obj\Debug\netcoreapp3.1\CS_CollectionList.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_CollectionList\obj\Debug\netcoreapp3.1\CS_CollectionList.genruntimeconfig.cache
