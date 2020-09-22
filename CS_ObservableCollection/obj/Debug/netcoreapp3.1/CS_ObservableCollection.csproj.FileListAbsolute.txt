@@ -1,0 +1,13 @@
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_ObservableCollection\bin\Debug\netcoreapp3.1\CS_ObservableCollection.exe
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_ObservableCollection\bin\Debug\netcoreapp3.1\CS_ObservableCollection.deps.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_ObservableCollection\bin\Debug\netcoreapp3.1\CS_ObservableCollection.runtimeconfig.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_ObservableCollection\bin\Debug\netcoreapp3.1\CS_ObservableCollection.runtimeconfig.dev.json
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_ObservableCollection\bin\Debug\netcoreapp3.1\CS_ObservableCollection.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_ObservableCollection\bin\Debug\netcoreapp3.1\CS_ObservableCollection.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_ObservableCollection\obj\Debug\netcoreapp3.1\CS_ObservableCollection.csprojAssemblyReference.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_ObservableCollection\obj\Debug\netcoreapp3.1\CS_ObservableCollection.AssemblyInfoInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_ObservableCollection\obj\Debug\netcoreapp3.1\CS_ObservableCollection.AssemblyInfo.cs
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_ObservableCollection\obj\Debug\netcoreapp3.1\CS_ObservableCollection.csproj.CoreCompileInputs.cache
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_ObservableCollection\obj\Debug\netcoreapp3.1\CS_ObservableCollection.dll
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_ObservableCollection\obj\Debug\netcoreapp3.1\CS_ObservableCollection.pdb
+C:\NAD\LEARN\ASP.NetCore\Lesson\CS_ObservableCollection\obj\Debug\netcoreapp3.1\CS_ObservableCollection.genruntimeconfig.cache
